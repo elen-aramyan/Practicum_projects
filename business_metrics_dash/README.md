@@ -4,5 +4,5 @@
 Проанализировать ключевые метрики сервиса доставки еды «Всё.из.кафе» в Саранске за период с 1 мая по 30 июня 2021 года.
 
 ## Ссылки
-[Анализ бизнес-метрик](https://docs.google.com/document/d/19Td5TRmVD7yi4bKiMdkmGIcB_1Fx5_xkrt7KhyKvba0/edit?usp=sharing)
-[Дашборд](https://datalens.yandex/0vy2ugxoo7zkm )
+- [Анализ бизнес-метрик](https://docs.google.com/document/d/19Td5TRmVD7yi4bKiMdkmGIcB_1Fx5_xkrt7KhyKvba0/edit?usp=sharing)
+- [Дашборд](https://datalens.yandex/0vy2ugxoo7zkm )
